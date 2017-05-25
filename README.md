@@ -1,5 +1,6 @@
-# tribute
-For Michael Jackson
+# Tribute for Michael Jackson
+
+### Click [*here*](https://bunnyhouse.github.io/tributeForMJ/) to view the page.
 
 A practice page which only include one index.html.
 
