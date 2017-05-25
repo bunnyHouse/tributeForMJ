@@ -1,6 +1,6 @@
 # Tribute for Michael Jackson
 
-### Click <a href="https://bunnyhouse.github.io/tributeForMJ/" target="_blank">*here*</a> to view the page.
+### Click [*here*](https://bunnyhouse.github.io/tributeForMJ/) to view the page.
 
 A practice page which only include one index.html.
 
